@@ -81,7 +81,15 @@ sudo apt install git
 
 Ahora podrá manipular y/o ejecutar los archivos presentes en este repositorio. 
 
-* Any modifications needed to be made to files/folders
+* Qt creator
+
+Para usar este repositorio en Qt creator, deberá crear un nuevo proyecto y marcar la opción de importar proyecto. 
+
+file:///home/Nevt/Pictures/Screenshots/Screenshot%20from%202022-08-23%2022-29-03.png![image](https://user-images.githubusercontent.com/83324055/186322292-216bfbba-a59c-49db-a9c6-f0fd93e18eb3.png)
+
+Una vez realizado, deberá seleccionar la opción git clone, tras lo cual se le proporcionará una interfaz como esta:
+
+
 
 ### Executing program
 
