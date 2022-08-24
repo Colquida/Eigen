@@ -1,4 +1,4 @@
-#include "bmi_lib.h"
+#include "eigen_lib.h"
 #include <iostream>
 #include <eigen3/Eigen/Dense>
 #include <cmath>
