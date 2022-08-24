@@ -89,29 +89,32 @@ file:///home/Nevt/Pictures/Screenshots/Screenshot%20from%202022-08-23%2022-29-03
 
 Una vez realizado, deberá seleccionar la opción git clone, tras lo cual se le proporcionará una interfaz como esta:
 
+file:///home/Nevt/Pictures/Screenshots/Screenshot%20from%202022-08-23%2022-36-04.png![image](https://user-images.githubusercontent.com/83324055/186323204-ae4adf30-fbff-4927-ba2f-3a461e66e950.png)
+
+Como puede verse en la imagen anterior, se le debe proporcionar el enlace del presente repositorio. Al continuar, hará el respectivo proceso de importación:
+
+file:///home/Nevt/Pictures/Screenshots/Screenshot%20from%202022-08-23%2022-38-49.png![image](https://user-images.githubusercontent.com/83324055/186323424-fd6ef0a7-cbe7-4a50-8c41-aae9ab861884.png)
+
+Esto indica que los ficheros han sido correctamente descargados al equipo y el usuario deberá realizar la apertura de los mismos según su conveniencia. 
+
+### Ejecutando el programa
+
+* Qt creator
+*
+Debido a que se ha utilizado la compilación separada, deberá ejecutar el fichero eigen_project.cpp que contiene el disparador de todo el programa. Lo cual lo llevará a una interfaz como esta: 
+
+file:///home/Nevt/Pictures/Screenshots/Screenshot%20from%202022-08-23%2022-49-24.png![image](https://user-images.githubusercontent.com/83324055/186324733-9f5968e9-937f-4671-89d8-55454e43bf5b.png)
 
 
-### Executing program
+La interfaz presentada en la terminal indica las acciones que, como usuario debe realizar. Por ejemplo, deberá presionar un número del 1 al 15 (99 para salir) ya que cada número identifica el punto que está realizando. Este mostrará las matrices iniciales del ejercicio planteado y la solución que se espera. 
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
+## Autor
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Jonathan Alexander Torres Benítez
+
 
 ## Version History
 
@@ -120,16 +123,3 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
     * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
