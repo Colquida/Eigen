@@ -13,6 +13,13 @@ https://www.math-exercises.com/matrices/matrix-equations
 
 Se requiere la realización de 15 de estos ejercicios, los cuales son de elección propia. Para este repositorio en particular, se eligió todos los presentes a excepción del ejercicio n.
 
+En el código podrá encontrar algunos ficheros. 
+
+* CMakeLists.txt (Archivo de ficheros pertenecientes al proyecto)
+* eigen_lib.h (Biblioteca local)
+* eigen_project.cpp (Contiene el disparador del programa)
+* main.cpp (lógica del programa (funciones, implementación, etc.))
+
 ## Comienzo
 
 ### Dependencias
@@ -111,15 +118,13 @@ La interfaz presentada en la terminal indica las acciones que, como usuario debe
 
 ## Autor
 
-Contributors names and contact info
-
 Jonathan Alexander Torres Benítez
 
 
-## Version History
+## Historial de cambios
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Correcciones de nombres de ficheros
+    * Documentación adicional
 * 0.1
-    * Initial Release
+    * Lanzamiento inicial
