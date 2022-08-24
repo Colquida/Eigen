@@ -1,5 +1,5 @@
-#ifndef BMI_LIB_H_INCLUDED
-#define BMI_LIB_H_INCLUDED
+#ifndef EIGEN_LIB_H_INCLUDED
+#define EIGEN_LIB_H_INCLUDED
 
 #include <iostream>
 #include <eigen3/Eigen/Dense>
